@@ -16,7 +16,7 @@
 
 [working demo](https://wokwi.com/projects/393416688041483265)
 
-## Lab 3 Arduino and Seven Segment Disply (4 digits)
+## Lab 3 Arduino and Seven Segments Display (4 digits)
 
 [sketch.ino](https://github.com/daryabagmet/cpp/blob/main/lab3.cpp)
 
